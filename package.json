@@ -1,0 +1,19 @@
+{
+  "name": "threejs-test1",
+  "version": "1.0.0",
+  "description": "ThreeJS test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilhighley/threejs-test1.git"
+  },
+  "author": "Neil Highley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilhighley/threejs-test1/issues"
+  },
+  "homepage": "https://github.com/neilhighley/threejs-test1#readme"
+}
